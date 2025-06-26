@@ -1,0 +1,4 @@
+<!DOCTYPE HTML>
+<HTML lang="en">
+<head>
+<meta cherset="UTF-8">
